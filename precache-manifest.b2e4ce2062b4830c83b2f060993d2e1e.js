@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02344943175e3445001987287796aa82",
+    "revision": "ace44e06ff05b959e68ad7e20f4f6749",
     "url": "./index.html"
   },
   {
-    "revision": "65dfb93e21c70e438895",
+    "revision": "5a4f9e7fd8cf7a2a10be",
     "url": "./static/css/main.93f68d1b.chunk.css"
   },
   {
-    "revision": "bdf3554297fa17e4a1c2",
-    "url": "./static/js/2.f83b58a8.chunk.js"
+    "revision": "27e0bf172a0386f057b1",
+    "url": "./static/js/2.095a170b.chunk.js"
   },
   {
-    "revision": "65dfb93e21c70e438895",
-    "url": "./static/js/main.df8eb7ed.chunk.js"
+    "revision": "5a4f9e7fd8cf7a2a10be",
+    "url": "./static/js/main.b53fa56f.chunk.js"
   },
   {
     "revision": "e45b99fbf74055761ef0",
@@ -54,10 +54,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
     "url": "./static/media/address_image.16559172.svg"
-  },
-  {
-    "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
-    "url": "./static/media/animated_ashutosh.eaf02c2d.png"
   },
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
@@ -188,20 +184,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/googleAssistant.a6addc3f.svg"
   },
   {
+    "revision": "b23338e3d2992c64edae2b52f4279981",
+    "url": "./static/media/highcode_logo.b23338e3.jfif"
+  },
+  {
     "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",
     "url": "./static/media/ibm_logo.d3fccbe1.png"
   },
   {
-    "revision": "571a8584e69ecfbe326c8b8385fbbf54",
-    "url": "./static/media/iiitk_logo.571a8584.png"
-  },
-  {
     "revision": "29152cf756a1facead5393c32e373371",
     "url": "./static/media/intel_logo.29152cf7.jpg"
-  },
-  {
-    "revision": "60ed0bd3f8b99ac1d29e74575f804aaa",
-    "url": "./static/media/iu_logo.60ed0bd3.png"
   },
   {
     "revision": "5b4a6449747ec61a6d9aa874f2a9ceba",
@@ -216,12 +208,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/manOnTable.83ac24fb.svg"
   },
   {
+    "revision": "5aebd0d102ebaeb18c3df5ee0598da1c",
+    "url": "./static/media/michael-long-sign.5aebd0d1.png"
+  },
+  {
+    "revision": "ebc4cdcdeb035a78e945da269db6ae3e",
+    "url": "./static/media/michael_long.ebc4cdcd.png"
+  },
+  {
     "revision": "069938a84edd6ebf383c318e9feb5d4c",
     "url": "./static/media/muffito_logo.069938a8.png"
   },
   {
     "revision": "95a12a2b8c3149cce2175679755c4b4d",
     "url": "./static/media/nptel_logo.95a12a2b.png"
+  },
+  {
+    "revision": "c2900874943ed27b6c4008137769d09f",
+    "url": "./static/media/nus_logo.c2900874.png"
   },
   {
     "revision": "414dfbd98516b39255a3e22ed90b3f7d",
